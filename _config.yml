@@ -41,8 +41,7 @@ header_pages:
   - writing.md
   - contact.md
 
-footer: connect with me on <a href="https://twitter.com/chuyishang">twitter</a>, <a href="https://www.linkedin.com/in/chuyi-shang-21482620b/">linkedin</a>, or <a href="https://www.instagram.com/chuyishang">instagram</a>!! 
-
+footer: made in jekyll with ♥
 style: dark
 listen_for_clients_preferred_style: true
 

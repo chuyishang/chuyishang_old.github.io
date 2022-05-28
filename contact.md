@@ -7,13 +7,15 @@ permalink: contact
 # Feel free to contact me!
 Among many things, you can:
 <ul>
-* Email me <a href="mailto:chuyishang@berkeley.edu"><b>here</b></a>
+* Shoot me an email <a href="mailto:chuyishang@berkeley.edu"><b>here</b></a>
 <br>
-* Stalk me on <a href="https://www.linkedin.com/in/chuyi-shang-21482620b/"><b>LinkedIn</b></a>
+* Stalk me on <a href="https://www.linkedin.com/in/chuyi-shang-21482620b/"><b>linkedin</b></a>
 <br>
-* Enjoy my 0 posts on <a href="https://www.instagram.com/chuyishang"><b>Instagram</b></a>
+* Enjoy my 0 posts on <a href="https://www.instagram.com/chuyishang"><b>instagram</b></a>
 <br>
-* Judge my music taste on <a href="https://open.spotify.com/user/tds7vda1wwsnvhfwef45kgz2s"><b>Spotify</b></a>
+* Judge my music taste on <a href="https://open.spotify.com/user/tds7vda1wwsnvhfwef45kgz2s"><b>spotify</b></a>
+<br>
+* Check out my projects on <a href="https://github.com/chuyishang"><b>github</b></a>
 <br>
 </ul>
 <p>
