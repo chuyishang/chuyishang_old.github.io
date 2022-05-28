@@ -6,7 +6,7 @@ permalink: /
 
 # Welcome!
 <br/>
-![me!]({{ "/images/chuyi_prof.jpg#center" | relative_url }}){: width="200" height="200"}
+![me!]({{ "/images/chuyi_prof.JPG#center" | relative_url }}){: width="200" height="200"}
 <br>
 Hello there! My name is Chuyi Shang, and I am currently an incoming sophomore at UC Berkeley. My primary interests include economics research, automating things, and teaching! My secondary interests include playing the electric guitar, sports, and browsing through Wikipedia. 
 
