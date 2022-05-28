@@ -30,7 +30,8 @@ twitter_username: chuyishang
 github_username:  chuyishang
 
 # Build settings
-theme: jekyll-theme-console
+# theme: jekyll-theme-console
+remote-theme: chuyishang/jekyll-theme-console
 plugins:
   - jekyll-feed
 
