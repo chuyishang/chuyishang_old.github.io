@@ -31,7 +31,7 @@ github_username:  chuyishang
 repository: "chuyishang/chuyishang.github.io"
 # Build settings
 # theme: jekyll-theme-console
-remote_theme: b2a3e8/jekyll-theme-console
+remote_theme: chuyishang/jekyll-theme-console
 
 plugins:
   - jekyll-feed
