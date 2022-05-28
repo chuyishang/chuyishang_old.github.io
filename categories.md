@@ -1,7 +1,7 @@
 ---
 layout: page
-title:  categories
-permalink: categories
+title:  writing
+permalink: writing
 ---
 
 # Categories
