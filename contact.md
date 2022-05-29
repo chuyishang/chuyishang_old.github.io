@@ -11,7 +11,7 @@ Among many things, you can:
 <br>
 * Stalk me on <a href="https://www.linkedin.com/in/chuyi-shang-21482620b/"><b>linkedin</b></a>
 <br>
-* Enjoy my 0 posts on <a href="https://www.instagram.com/chuyishang"><b>instagram</b></a>
+* View my posts on <a href="https://www.instagram.com/chuyishang"><b>instagram</b></a>
 <br>
 * Judge my music taste on <a href="https://open.spotify.com/user/tds7vda1wwsnvhfwef45kgz2s"><b>spotify</b></a>
 <br>

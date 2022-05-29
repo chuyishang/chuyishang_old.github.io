@@ -38,7 +38,8 @@ plugins:
 
 header_pages:
   - index.md
-  - writing.md
+  - posts.md
+  - misc.md
   - contact.md
 
 footer: made in jekyll with ♥
