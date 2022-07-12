@@ -40,9 +40,10 @@ header_pages:
   - index.md
   - posts.md
   - misc.md
+  - recruiting.md
   - contact.md
 
-footer: made in jekyll with ♥
+footer: thanks for reading!!
 style: dark
 listen_for_clients_preferred_style: true
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  recruiting
+title:  cv
 permalink: recruiting
 ---
 # Recruiting
@@ -27,6 +27,13 @@ Python, Java, Research, Pandas, NumPy, SciPy, JavaScript, Juptyer Notebook Devel
 *Modules Developer*
 <li>Designed, developed, and deployed 5+ Jupyter Notebook modules for 2 classes (Biology 1B & Civil Engineering 114) used by 200+ Berkeley students</li>
 <li>Used tools like Folium, QGrid, Seaborn, and Widgets to improve pedagogical value of course materials</li>
+
+# Intel
+*Contract Consultant*
+<li>Developed Python dashboard to scrape, visualize, and analyze data from 250+ financial reports, reducing manual input time by 2x</li>
+<li>Wrote Regex queries and Selenium scripts to automate data collection from financial reports with different formats</li>
+<li>Analyzed 4 competitor's revenue growth with forecasting and multiple regression using Prophet, sklearn, and the AlphaVantage API</li>
+<li>Created dashboard in Dash to visualize and display insights and results</li>
 
 # UC Berkeley Division of Data Science, Computing, and Society
 *Academic Intern*
