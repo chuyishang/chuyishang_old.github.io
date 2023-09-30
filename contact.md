@@ -10,6 +10,7 @@ Among many things, you can:
 * Shoot me an email <a href="mailto:chuyishang@berkeley.edu"><b>here</b></a>
 <br>
 * Find me on <a href="https://www.linkedin.com/in/chuyi-shang-21482620b/"><b>linkedin</b></a>
+* Connect with me on <a href="https://www.linkedin.com/in/chuyi-shang-21482620b/"><b>linkedin</b></a>
 <br>
 * View my posts on <a href="https://www.instagram.com/chuyishang"><b>instagram</b></a>
 <br>
