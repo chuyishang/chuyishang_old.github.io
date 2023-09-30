@@ -9,12 +9,16 @@ permalink: recruiting
 - UC Berkeley, B.A. Economics and Computer Science, expected 2025
 
 # <u>Coursework:</u>
-- CS61A: **Structure and Interpretation of Computer Programs**, CS61B **Data Structures**, DATA100 **Principles and Techniques of Data Science**, ECON101A **Microeconomic Theory (Math Intensive)**, STAT88 **Probability and Mathematical Statistics for Data Science**, DATA8 **Foundations of Data Science**, MATH54 **Linear Algebra & Differential Equations**, CS70 **Discrete Math and Probability Theory**
+- CS 189: **Machine Learning**, CS 170: **Algorithms**, EECS 127: **Numerical Optimization**, CS 61C: **Machine Structures**, CS70 **Discrete Math and Probability Theory**, MATH54 **Linear Algebra & Differential Equations**, CS61B **Data Structures**, DATA100 **Principles and Techniques of Data Science**, ECON101A **Microeconomic Theory (Math Intensive)**, ECON101B **Macroeconomic Theory (Math Intensive)**, ECON 119: **Behavioral Economics**, STAT88 **Probability and Mathematical Statistics for Data Science**, CS61A: **Computer Science Foundations**, DATA8 **Foundations of Data Science**, 
 
 # <u>Skills:</u>
-Python, Java, Research, Pandas, NumPy, SciPy, JavaScript, Juptyer Notebook Development, Teaching
+NLP, Computer Vision, Python, PyTorch, Java, JavaScript, TypeScript, Go, React, AWS, Docker, Kubernetes, Tensorflow
 
 # <u>Activities:</u>
+
+
+
+
 
 # Center for Effective Global Action
 *Research*
