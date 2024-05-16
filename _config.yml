@@ -36,9 +36,6 @@ plugins:
 
 header_pages:
   - index.md
-  - posts.md
-  - misc.md
-  - recruiting.md
   - contact.md
 
 footer: thanks for reading!!
