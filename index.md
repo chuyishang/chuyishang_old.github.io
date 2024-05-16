@@ -6,7 +6,7 @@ permalink: /
 
 # Welcome!
 <br/>
-![me!]({{ "images\prof_pic.jpg#center" | relative_url }}){: width="200" height="200"}
+![me!]({{"images/prof_pic.jpg" | relative_url}}){: width="200" height="200"}
 <br>
 
 
