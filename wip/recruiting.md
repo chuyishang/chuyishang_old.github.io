@@ -1,3 +1,4 @@
+<!--
 ---
 layout: page
 title:  cv
@@ -76,3 +77,4 @@ NLP, Computer Vision, Python, PyTorch, Java, JavaScript, TypeScript, Go, React, 
 <li>Institute of Economic Affairs Dorian Fisher Memorial Prize; Top 30 Paper</li>
 <li>USAD; National 5th Place Overall</li>
 <li>National Economics Challenge; National Finalist </li>
+-->
