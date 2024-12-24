@@ -6,11 +6,8 @@ permalink: /
 
 # Welcome!
 <br/>
-<div style="text-align: center;">
-  ![me!]({{"images/prof_pic.jpg"#center | relative_url}}){: width="200" height="200"}
-</div>
+<img src="images/prof_pic.jpg" alt="me!" width="200" height="200" class="center">
 <br>
-
 
 Hello there! I'm Chuyi, and I recently graduated from UC Berkeley with degrees in Computer Science and Economics. I'm also a Machine Learning Researcher at Berkeley AI Research (BAIR) advised by Trevor Darrell, where I am broadly interested in multimodality and improving model reasoning abilities.
 
