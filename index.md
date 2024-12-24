@@ -6,17 +6,17 @@ permalink: /
 
 # Welcome!
 <br/>
-![me!]({{"images/prof_pic.jpg"#center | relative_url}}){: width="200" height="200"}
+<div style="text-align: center;">
+  ![me!]({{"images/prof_pic.jpg"#center | relative_url}}){: width="200" height="200"}
+</div>
 <br>
 
 
-Hello there! My name is Chuyi Shang, and I'm currently a 3rd year undergraduate at UC Berkeley. My primary interests include machine learning, building cool projects, and music. My secondary interests include playing the electric guitar, cooking, and browsing through Wikipedia.
+Hello there! I'm Chuyi, and I recently graduated from UC Berkeley with degrees in Computer Science and Economics. I'm also a Machine Learning Researcher at Berkeley AI Research (BAIR) advised by Trevor Darrell, where I am broadly interested in multimodality and improving model reasoning abilities.
 
-At Berkeley, I've been fortunate enough to meet and work with many talented people. I perform research on multimodal machine learning in the Darrell Group at Berkeley's Artifical Intelligence Research lab (BAIR), where I've done work on instructional video understanding and am currently working on VQA and visual programming.
+Outside of research, I enjoy cooking, music, history, and browsing through Wikipedia. 
 
-Outside of research and school, I enjoy working on interesting projects. Currently, I am building TripAI (a temporary name), a reimagined, AI-enabled version of your favorite Maps app.
-
-Reach out to me if you are interested in any of the work I do - I'm more than happy to chat or grab coffee!
+Feel free to reach out to me about anything - I'm more than happy to chat!
 
 <br>
-Otherwise, feel free to check out some of my posts down below:
+Otherwise, feel free to check out some of my work below.
